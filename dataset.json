@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Wichita, Kansas, US",
+  "export_job_id": "27b67391-6875-45d5-bd50-477b562c66cc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 225110,
+  "location_name": "Wichita",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-wichita-kansas-us-sample-225110",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/225110/beamstation_225110_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 21,
+  "sample_sha256": "408026b582e972f1466e2eff434c2e2494fb75bfba16b946be404f08b2e2a181",
+  "sample_size_bytes": 99544,
+  "total_records": 211,
+  "updated_at": "2026-04-07T17:43:57.800774+00:00"
+}
