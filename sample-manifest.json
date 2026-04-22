@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d79b96a6-c8a3-48e4-9030-712fa6b174d7",
+  "export_job_id": "12fe955d-e083-4643-86ad-2bca6ac87a9b",
   "id_short": 225110,
-  "published_at": "2026-04-18T07:38:00Z",
+  "published_at": "2026-04-22T07:14:16Z",
   "repo_name": "restaurant-verified-email-access-in-wichita-kansas-us-sample-225110",
   "sample_asset_name": "beamstation_225110_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/225110/beamstation_225110_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "62be63b42775ce03c2d537676844a3d262e48ab76b746726aec78ef18d97c876",
-  "sample_size_bytes": 95263,
-  "total_records": 203
+  "sample_records": 3,
+  "sample_sha256": "627918ff18d3a41e4fa69f14c6f6dbe0806076147b60ce1a71ea698a6f95ab2a",
+  "sample_size_bytes": 27556,
+  "total_records": 31
 }
